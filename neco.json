@@ -1,7 +1,7 @@
 {
     "room":                     "Necati",
     "author":                   "Created by Arda027",
-    "css":                      "https://raw.githubusercontent.com/plugarda/ardagokcek/master/neco2.css",
+    "css":                      "https://raw.githubusercontent.com/plugarda/ardagokcek/master/neco.css",
     "rules": {
         "allowAutorespond":     true,
         "allowAutowoot":        true,
