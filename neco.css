@@ -338,7 +338,7 @@
 #history-button,
 #rs-skip-button
 {
-        background:             rgb(3, 0, 7) !important;
+        background:             rgb(145, 3, 3) !important;
 }
 
 #rs-skip-button
@@ -390,34 +390,26 @@
         animation:              shift .80s ease-in-out !important;
 }
 /* Plug Logo Menusu */
-#app-menu .button, 
+#app-menu .button{background:     rgb(95, 3, 3) !important;}
 #app-menu .list
-{
-        background:             rgb(3, 0, 7) !important;
-}
+{background:             rgb(3, 0, 7) !important;}
 
 #app-menu .button, 
 #app-menu .item, 
 #app-menu .logout
-{
-        -webkit-transition:     all 0.2s linear;
+{-webkit-transition:     all 0.2s linear;
         -moz-transition:        all 0.2s linear;
         -o-transition:          all 0.2s linear;
-        transition:             all 0.2s linear;
-}
+        transition:             all 0.2s linear;}
 
 #app-menu .button:hover
-{
-        -webkit-box-shadow:     inset 0 3.75px 0 0 rgba(0, 244, 155, 1) !important;
+{-webkit-box-shadow:     inset 0 3.75px 0 0 rgba(0, 244, 155, 1) !important;
         -moz-box-shadow:        inset 0 3.75px 0 0 rgba(0, 244, 155, 1) !important;
         -o-box-shadow:          inset 0 3.75px 0 0 rgba(0, 244, 155, 1) !important;
-        box-shadow:             inset 0 3.75px 0 0 rgba(0, 244, 155, 1) !important;
-}
+        box-shadow:             inset 0 3.75px 0 0 rgba(0, 244, 155, 1) !important;}
 
 #app-menu .list a
-{
-        background:             rgba(0, 0, 0, 0) !important;
-}
+{background:             rgba(0, 0, 0, 0) !important;}
 
 #app-menu .list:hover > .community,
 #app-menu .list:hover > a:nth-child(2) > .events,
@@ -559,10 +551,9 @@
 
 /* Oda Ust Kisim */
 #room-meta
-{
-        background:     rgb(3, 0, 7) !important;
-}
-
+{background:     rgb(145, 3, 3) !important;}
+#now-playing-dj .dark-label, .username {color:     rgb(3, 0, 7) !important;}
+#room-host .dark-label{color:     rgb(3, 0, 7) !important;}
 /* Chat Ust */
 #chat-header
 {
@@ -664,18 +655,16 @@
        background:              rgba(148, 94, 242, 0.2) !important; 
 }
 /* UST BASLIK + BUTONLAR */
+#app .header-panel-button
+{background:             rgb(165, 3, 3) !important;}
 #app .header-panel-button.selected
-{
-        background:             rgb(3, 0, 7) !important;
-}
+{background:             rgb(65, 3, 3) !important;}
 
 #chat-header,
 #user-lists .header,
 #waitlist .header,
 #app .friends .list-header
-{
-        background:             rgb(3, 0, 7) !important;
-}
+{background:             rgb(65, 3, 3) !important;}
 
 /* Chat, bekleme listesi, RCS kisaca sag ust butonlar */
 #app .app-header .right-meta #chat-button,
@@ -743,7 +732,7 @@
 /* Alt Kisim */
 #footer 
 {
-        background:             rgb(3, 0, 7) !important;
+        background:             rgb(135, 3, 3) !important;
 }
 /* Butonlar */
 #footer-user .inventory,
@@ -752,7 +741,7 @@
 #footer-user .profile,
 #footer-user .settings
 {
-        background:             rgb(3, 0, 7) !important;
+        background:             rgb(165, 3, 3) !important;
         
         -webkit-transition:     all 0.3s linear;
         -moz-transition:        all 0.3s linear;
@@ -857,7 +846,7 @@
 }
 #dj-button
 {
-        opacity:                0.6;
+        opacity:                0.6;p
         -webkit-transition:     all 0.3s ease;
         -moz-transition:        all 0.3s ease;
         -o-transition:          all 0.3s ease;
@@ -1014,7 +1003,7 @@
 
 #playlist-button
 {
-        background:             rgb(3, 0, 7) !important;
+        background:             rgb(95, 3, 3) !important;
         
         -webkit-transition:     all 0.3s linear;
         -moz-transition:        all 0.3s linear;
@@ -1022,10 +1011,10 @@
         transition:             all 0.3s linear;
         
         /* Prevents Flicker Issues */
-        -webkit-box-shadow:     inset 0 0 0 0 rgba(146, 90, 255, 1);
-        -moz-box-shadow:        inset 0 0 0 0 rgba(146, 90, 255, 1);
-        -o-box-shadow:          inset 0 0 0 0 rgba(146, 90, 255, 1);
-        box-shadow:             inset 0 0 0 0 rgba(146, 90, 255, 1);
+        -webkit-box-shadow:     inset 0 0 0 0 rgba(3, 0, 7, 1);
+        -moz-box-shadow:        inset 0 0 0 0 rgba(3, 0, 7, 1);
+        -o-box-shadow:          inset 0 0 0 0 rgba(3, 0, 7, 1);
+        box-shadow:             inset 0 0 0 0 rgba(3, 0, 7, 1);
 }
 
 #playlist-button:hover
