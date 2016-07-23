@@ -1774,7 +1774,7 @@
 
 	.cm.role-dj .from .un, .role-dj .name
 	{
-			color: #547bc9 !important;
+			color: #8b0000 !important;
 	}
 
 	.icon-chat-dj 
@@ -1784,7 +1784,7 @@
 
 	.cm.role-bouncer .from .un, .role-bouncer .name
 	{
-			color: #626cbc !important;
+			color: #a40000 !important;
 	}
 
 	.icon-chat-bouncer 
@@ -1794,7 +1794,7 @@
 
 	.cm.role-manager .from .un, .role-manager .name
 	{
-			color: #7854a9 !important;
+			color: #cd0000 !important;
 	}
 
 	.icon-chat-manager 
@@ -1804,7 +1804,7 @@
 
 	.cm.role-cohost .from .un, .role-cohost .name, .cm.role-host .from .un, .role-host .name
 	{
-			color: #87449c !important;
+			color: #ff0000 !important;
 	}
 
 	.icon-chat-cohost 
