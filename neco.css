@@ -6,6 +6,7 @@
 		color: #fff !important;
 		font-weight: bold;}
 	#rcs-progress-container .bar {background: #ff0000 !important;}
+	::-webkit-scrollbar-thumb {background: rgba(205, 3, 3, 0.75) !important;}
 		
 	/* Diyalog Kontrol */
 	#dialog-confirm
