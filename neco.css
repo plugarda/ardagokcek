@@ -1780,9 +1780,10 @@
 			color: #8b0000 !important;
 	}
 
-	.icon-chat-dj 
+	.icon-chat-dj + span
 	{
 		background: url("http://i.hizliresim.com/Zd0MrG.png") !important;
+		color: #8b0000 !important;
 	}
 
 	.cm.role-bouncer .from .un, .role-bouncer .name
@@ -1790,9 +1791,10 @@
 			color: #a40000 !important;
 	}
 
-	.icon-chat-bouncer 
+	.icon-chat-bouncer + span
 	{
 		background: url("http://i.hizliresim.com/o710Lb.png");
+		color: #a40000 !important;
 	}
 
 	.cm.role-manager .from .un, .role-manager .name
@@ -1800,9 +1802,10 @@
 			color: #cd0000 !important;
 	}
 
-	.icon-chat-manager 
+	.icon-chat-manager + span
 	{
 		background: url("http://i.hizliresim.com/VYbPZZ.png");
+		color: #cd0000 !important;
 	}
 
 	.cm.role-cohost .from .un, .role-cohost .name, .cm.role-host .from .un, .role-host .name
@@ -1810,14 +1813,16 @@
 			color: #ff0000 !important;
 	}
 
-	.icon-chat-cohost 
+	.icon-chat-cohost + span
 	{
 		background: url("http://i.hizliresim.com/l1V3oJ.png");
+		color: #ff0000 !important;
 	}
 
-	.icon-chat-host 
+	.icon-chat-host + span
 	{
 		background: url("http://i.hizliresim.com/B2kvVp.png");
+		color: #ff0000 !important;
 	}
 	/* NECATI BAKLAVA FIX */
 	.icon-room
