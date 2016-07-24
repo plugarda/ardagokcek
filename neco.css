@@ -1817,4 +1817,8 @@
 		background: url("http://i.hizliresim.com/B2kvVp.png");
 	}
 	/* NECATI BAKLAVA FIX */
-	.icon-room{width: 75px !important;height: 30px !important;}
+	.icon-room
+	{
+		width: 75px !important;
+		height: 30px !important;
+	}
