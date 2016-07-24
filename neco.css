@@ -1,6 +1,12 @@
 	/*  Community Theme Styling */
 	/* Arda027 tarafindan hazirlandi  */
-
+	.icon-room {	width: 75px !important;	}
+	#room-name, #room-host, #now-playing-dj, #now-playing-media {
+		left: 90px !important;
+		color: #fff !important;
+		font-weight: bold;}
+	#rcs-progress-container .bar {background: #ff0000 !important;}
+		
 	/* Diyalog Kontrol */
 	#dialog-confirm
 	{
@@ -557,11 +563,7 @@
 
 	/* Oda Ust Kisim */
 
-	#room-name, #room-host, #now-playing-dj, #now-playing-media {
-		left: 90px !important;
-		color: #fff !important;
-		font-weight: bold;
-	}
+
 	#room-meta
 	{background:     rgb(145, 3, 3) !important;}
 	#now-playing-dj .dark-label {color:     rgb(3, 0, 7) !important;}
