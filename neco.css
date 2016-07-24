@@ -1823,9 +1823,3 @@
 	.icon-chat-manager + span{color: #cd0000 !important;}
 	.icon-chat-bouncer + span{color: #a40000 !important;}
 	.icon-chat-dj + span{color: #8b0000 !important;}
-	/* NECATI BAKLAVA FIX */
-	.icon-room
-	{
-		width: 75px !important;
-		height: 30px !important;
-	}
