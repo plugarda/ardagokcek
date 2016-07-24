@@ -1,6 +1,7 @@
 {
     "room":                     "Necati - Mezdeke",
     "author":                   "Arda027 tarafindan olusturuldu. Iyi eglenceler <3",
+    "icon":                     "https://raw.githubusercontent.com/plugarda/ardagokcek/master/icon.png"
     "css":                      "https://rawgit.com/plugarda/ardagokcek/master/neco.css",
     "rules": {
         "allowAutorespond":     true,
