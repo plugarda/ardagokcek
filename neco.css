@@ -1,6 +1,6 @@
 	/*  Community Theme Styling */
 	/* Arda027 tarafindan hazirlandi  */
-	.icon-room {	width: 75px !important;	}
+	.icon-room {	width: 75px !important; height: 41px !important;}
 	#room-name, #room-host, #now-playing-dj, #now-playing-media {
 		left: 90px !important;
 		color: #fff !important;
