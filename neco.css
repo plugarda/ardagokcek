@@ -1828,3 +1828,8 @@
     		color: rgb(0, 0, 0) ;
     		text-shadow: rgb(252, 0, 109) 0px 0px 1px, rgb(219, 32, 85) 0px 0px 5px, rgb(252, 0, 42) 2px 2px 10px;
 	}
+	#chat-messages .id-4253939 .badge-box i.bdg
+	{
+        	background-image:       url('https://raw.githubusercontent.com/plugarda/ardagokcek/master/arda.png');
+        	background-size:        cover;
+	}
