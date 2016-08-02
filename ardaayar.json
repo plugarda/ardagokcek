@@ -1,8 +1,8 @@
 {
-    "room":                     "Necati - Mezdeke",
+    "room":                     "Arda027 <3",
     "author":                   "Arda027 tarafindan olusturuldu. Iyi eglenceler <3",
-    "icon":                     "https://raw.githubusercontent.com/plugarda/ardagokcek/master/icon.png",
-    "css":                      "https://rawgit.com/plugarda/ardagokcek/master/neco.css",
+    "icon":                     "https://raw.githubusercontent.com/plugarda/ardagokcek/master/icon.jpg",
+    "css":                      "https://rawgit.com/plugarda/ardagokcek/master/ardatema.css",
     "rules": {
         "allowAutorespond":     true,
         "allowAutowoot":        true,
